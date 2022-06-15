@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+  border: 1px solid;
+  margin: 10px 5px;
+}
+
+.cardDetails {
+  margin: 30px 5px;
+}
+
+.headerText {
+  float: left;
+}
+
+.createButton{
+  float: right;
+}
+
+.addCard {
+  justify-content: center;
+  display: flex;
+}
